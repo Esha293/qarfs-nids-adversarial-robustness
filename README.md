@@ -82,3 +82,5 @@ added upon publication).
 ## License
 
 MIT License — see `LICENSE`.
+- `results/` — the actual result CSVs from the run reported in the paper (clean, adversarial, and feature-selection outputs).
+- `figures/` — the generated figures used in the paper.
